@@ -3,6 +3,10 @@
 <p align="center"><i>Make your agents obey the law of your codebase.</i></p>
 
 <p align="center">
+  <a href="https://pinkdonut.work"><b>Live site &rarr; pinkdonut.work</b></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/license-MIT-F2C94C?style=for-the-badge" alt="MIT License" />
   <img src="https://img.shields.io/badge/status-public%20beta-3FB950?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/built%20at-LA%20Hacks%202026-1F6FEB?style=for-the-badge" alt="LA Hacks 2026" />
