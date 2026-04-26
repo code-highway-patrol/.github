@@ -40,7 +40,7 @@ CHP rides shotgun on every agent turn. It catches half-baked diffs before they h
 
 | Repo | What it is |
 |---|---|
-| [`chp`](https://github.com/code-highway-patrol/chp) | The patrol itself. CLI hook with plugins for Cursor, Windsurf, Codex, and Claude Code. |
+| [`chp`](https://github.com/code-highway-patrol/chp) | The patrol itself. CLI hook with plugins for Windsurf, Codex, and Claude Code. |
 | [`chp-web`](https://github.com/code-highway-patrol/chp-web) | Marketing site. React + Vite, deployed on Vercel. |
 
 ###
